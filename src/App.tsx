@@ -1,6 +1,5 @@
 import React from 'react';
-import './App.scss';
 
-export default function App() {
+export default function App(): JSX.Element {
   return <h1>Hello World!</h1>;
 }
